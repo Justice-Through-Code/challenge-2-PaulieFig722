@@ -23,7 +23,7 @@ def print_ingredients():  # Ways to work with strings/printing
    print(f'{ingredient_1} {ingredient_2} {ingredient_3} {ingredient_4}')
 # #     # as a single string (make sure to add a space between each ingredient!)
 
-print_ingredients()
+# print_ingredients()
 def confirm_ingredients():  # String methods
     # 2.1 Save the f-string you wrote above into a variable called `ingredients`.
     ingredients = f'{ingredient_1} {ingredient_2} {ingredient_3} {ingredient_4}'
